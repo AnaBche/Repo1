@@ -1,2 +1,3 @@
 # Repo1
-es otro repositorio de prueba siguiendo el tutorial gib hub
+Es otro repositorio de prueba siguiendo el tutorial gib hub. 
+Ahora creé otra rama llamada rama de edicion.
